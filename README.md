@@ -5,4 +5,5 @@
 
 
 Card Pugg
-https://github.com/SolidExodia/i-Love-My-Pugg/issues/1#issue-1000188077
+
+![Screenshot_9](https://user-images.githubusercontent.com/62224609/133913630-f179fb2a-b7e3-4107-8ece-d30b561c7286.png)
